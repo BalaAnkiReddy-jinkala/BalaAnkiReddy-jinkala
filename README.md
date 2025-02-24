@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @BalaAnkiReddy-jinkala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Bala Anki Reddy Jinkala  
+🚀 Aspiring **DevOps Engineer** | Passionate about **Cloud, Automation, and CI/CD**  
 
-<!---
-BalaAnkiReddy-jinkala/BalaAnkiReddy-jinkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack  
+- **Languages:** Python, Shell Scripting, SQL  
+- **Cloud:** AWS (RDS, S3, API Gateway)  
+- **DevOps Tools:** Git, Jenkins, Ansible, Docker, Kubernetes, Terraform  
+- **Database:** MySQL  
+- **OS:** Linux  
+
+📫 **Email:** [jb.ankireddy@gmail.com]  
